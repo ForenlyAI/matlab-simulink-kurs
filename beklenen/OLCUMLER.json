@@ -1,0 +1,112 @@
+{
+  "d1_1_alt_derece": -60,
+  "d1_1_ust_derece": 120,
+  "d1_2_aralik_derece": [
+    330,
+    220,
+    300,
+    180
+  ],
+  "d1_2_bilek_konum": [
+    0.204,
+    -0.144,
+    0.224
+  ],
+  "d1_3_dirsek_max": 56.5,
+  "d1_3_dirsek_max_t": 94.18,
+  "d1_3_satir": 5666,
+  "d1_4_uc_90": [
+    0.18,
+    -0.2
+  ],
+  "d1_4_uc_565": [
+    0.099,
+    -0.35
+  ],
+  "d2_1_boyut": [
+    53,
+    5666
+  ],
+  "d2_1_sure": 113.3,
+  "d2_1_csv_fark": 4.99975204468206E-6,
+  "d2_2_kalkis": 30.96,
+  "d2_2_havada": 54.4,
+  "d2_2_dirsek_hiz_max": 4.22,
+  "d2_3_J": 0.0975,
+  "d2_3_wn": 20.25,
+  "d2_3_zeta": 0.506,
+  "d2_3_asim": 15.8,
+  "d2_3_yerlesme": 0.4,
+  "d2_4_egim": -0.812,
+  "d2_4_ilk": 0.553719,
+  "d2_4_son": 0.008397,
+  "d2_4_tahmin5000": 0.00376,
+  "d3_1_max": 56.5,
+  "d3_1_min": -60,
+  "d3_2_fark_derece": 0.10419837271486809,
+  "d3_3_son_derece": [
+    62.02,
+    62.38,
+    63.76
+  ],
+  "d3_4_asim": [
+    43.9,
+    15.8,
+    0,
+    0
+  ],
+  "d3_4_yerlesme": [
+    0.7,
+    0.4,
+    0.3,
+    0.75
+  ],
+  "d4_1_kalici_derece": -2.38,
+  "d4_1_tork_max": 25,
+  "d4_1_mgr": 2.999,
+  "d4_2_asim": 5.8,
+  "d4_2_yerlesme": 0.44,
+  "d4_2_kalici_yuzde": 0.071,
+  "d4_2_tork_max": 25,
+  "d4_3_tablo": [
+    "Isaac PD",
+    "PID sert",
+    "PID ayarlı",
+    24.4,
+    20.5,
+    5.8,
+    -1,
+    1.02,
+    0.44,
+    3.97,
+    0.25,
+    0.07,
+    25,
+    25,
+    25
+  ],
+  "d4_4_sonuc": [
+    {
+      "ayar": "Isaac PD",
+      "rms_hata_derece": 4.29,
+      "en_buyuk_hata_derece": 11.71,
+      "tork_max_Nm": 10.3,
+      "gecti": false
+    },
+    {
+      "ayar": "PID ayarlı",
+      "rms_hata_derece": 0.13,
+      "en_buyuk_hata_derece": 2.04,
+      "tork_max_Nm": 16.14,
+      "gecti": true
+    }
+  ],
+  "d1_4_uc_0": [
+    0.18,
+    -0.2
+  ],
+  "d1_4_uc_eksi60": [
+    0.09,
+    -0.044
+  ]
+}
