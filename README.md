@@ -37,6 +37,6 @@ Bitirme projesi (Ders 4.4) geçme ölçütü: ortalama (karesel) hata 1 derecede
 
 ## Veri hakkında
 
-Robot verisinin tamamı **benzetim kaydıdır**, gerçek robot ölçümü değildir. Kayıt, Forenly AI'nin [kıraathane projesinde](https://forenly.ai/work/kiraathane) Unitree G1 insansı robotunun çay servisini benzetimde yaptığı bir bölümden alınmıştır. Derslerdeki modeller basitleştirilmiş, tek eklemli modellerdir.
+Robot verisinin tamamı **benzetim kaydıdır**, gerçek robot ölçümü değildir. Kayıt, Forenly AI'nin [kafe projesinde](https://forenly.ai/work/cafe) Unitree G1 insansı robotunun çay servisini benzetimde yaptığı bir bölümden alınmıştır. Derslerdeki modeller basitleştirilmiş, tek eklemli modellerdir.
 
 Dosyalar yalnız eğitim amacıyla paylaşılmıştır. © Forenly AI
