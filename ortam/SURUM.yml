@@ -1,0 +1,9 @@
+# MATLAB ve Simulink 101 — laboratuvar ortamı (L1)
+matlab: "R2026b (26.2.0.3386108)"
+urunler: [MATLAB, Simulink]
+arac_kutusu: yok
+kurulum: "MathWorks paket yöneticisi (mpm 2026.7.1): mpm install --release=R2026b --products MATLAB Simulink"
+lisans_ogrenci: "kendi MATLAB lisansı ya da MathWorks 30 günlük deneme"
+calistirma: "lab_calistir.m — hafta1–4.m sırayla; günlük cikti/kosum.log; ölçümler OLCUMLER.json"
+veri: "veri/ — Forenly kıraathane G1 çay servisi benzetim kaydı (HDF5 + CSV), G1 sağ kol eklem kartı, W&B π0.5 kayıp eğrisi"
+koşum: "2026-10-06 — dört hafta TAMAM (yerçekimi yönü ve kol açı yönleri G1 URDF ile uyumlu; CSV sütun adları düzeltildi)"

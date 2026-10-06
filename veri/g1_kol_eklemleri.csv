@@ -1,0 +1,8 @@
+eklem,kp,kd,armatur,efor_Nm,hiz_rad_s,alt_rad,ust_rad
+right_shoulder_pitch_joint,100.0,5.0,0.03,25.0,37.0,-3.0892,2.6704
+right_shoulder_roll_joint,100.0,5.0,0.03,25.0,37.0,-2.2515,1.5882
+right_shoulder_yaw_joint,40.0,2.0,0.03,25.0,37.0,-2.618,2.618
+right_elbow_joint,40.0,2.0,0.03,25.0,37.0,-1.0472,2.0944
+right_wrist_roll_joint,20.0,2.0,0.03,25.0,37.0,-1.9722,1.9722
+right_wrist_pitch_joint,20.0,2.0,0.03,5.0,22.0,-1.6144,1.6144
+right_wrist_yaw_joint,20.0,2.0,0.03,5.0,22.0,-1.6144,1.6144
